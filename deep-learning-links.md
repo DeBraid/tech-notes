@@ -36,6 +36,8 @@ Sports Video Classification from Multimodal Information Using Deep Neural Networ
 
 ### Blogs and Misc.
 
+Tweetstorm on history and potential future of deep learning and AI -- [Twitter](https://twitter.com/Royal_Arse/status/690559694843285504)
+
 Doing Data Science at Twitter — Medium [Link](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-]f0c13298aee6#.92eik974)
 
 Neural networks and deep learning --  [Book](http://neuralnetworksanddeeplearning.com/) with code samples via [Github](https://github.com/mnielsen/neural-networks-and-deep-learning).
