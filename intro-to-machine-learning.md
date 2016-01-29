@@ -65,3 +65,21 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     accuracy = accuracy_score(pred, labels_test)
     return accuracy
 ```
+
+## Training and Testing
+
+Key to provide disparate data sets.  Is easy to over-fit to your test dataset with small sample data. 
+
+### Bayes Rule
+
+Naive Bayes is a good algo for working with text identification.  Common to treat *each unique word* as a *feature*.
+
+For parsing emails, each word in a writers vocabulary is a new feature.
+
+ 
+
+
+
+
+
+

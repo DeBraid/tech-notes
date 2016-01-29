@@ -20,6 +20,8 @@ Uni. of Oxford Machine Learning: 2014-2015 Course Materials [Link](https://www.c
 
 ### Videos
 
+SimpleCV - Computer Vision using Python [youtube](https://www.youtube.com/watch?v=UZSm7Q2bZoc&ab_channel=NextDayVideo)
+
 Deep Learning Overview from TED -- [YouTube](https://www.youtube.com/watch?v=xx310zM3tLs&ab_channel=TEDxTalks)
 
 Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning [YouTube](https://www.youtube.com/watch?v=n1ViNeWhC24&ab_channel=%E9%BB%84%E9%91%AB)
