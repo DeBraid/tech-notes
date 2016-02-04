@@ -41,13 +41,13 @@ Teams of 10s-100s of researchers spent decades hand-engineering features.  For e
 
 
 
-## one-learning algorithm hypothesis 
+## One-learning algorithm hypothesis 
 
 Most of human learning can be explained with a single algorithm.  This is a good thing, since most of learning can explained in half a page of pseudocode. 
 
 A learning algorithm once trained is complex, but the complexity of the things we're training usually comes from the DATA, not the algorithm itself. 
 
+Quote from [Wired]. “People understand the linear algebra behind deep learning. But the models it produces are less human-readable. They’re machine-readable,” Nicholson says. “They can retrieve very accurate results, but we can’t always explain, on an individual basis, what led them to those accurate results.” [Wired]: www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/
+
 ## Can we learn better feature representation?
 
-
-What requires the most work is  

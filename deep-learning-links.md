@@ -4,6 +4,7 @@
 
 Deep learning [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
 
+* Large repo with many machine-learning links. [Github](https://github.com/josephmisiti/awesome-machine-learning)
 ### Courses
 
 Udacity
