@@ -35,7 +35,7 @@ This is not easy!  It involves comparing diagnosing `feature representation`, li
 
 ### Where do we get the features from? 
 
-Teams of 10s-100s of researchers spent decades hand-engineering features.  For example, one common technique, SIFT, took David Lo (s) 10 years to develop SIFT, and it works pretty well, but still needs improvement.  
+Teams of 10s-100s of researchers spent decades hand-engineering features.  For example, one common technique, SIFT, took David Lowe 10 years to develop SIFT, and it works pretty well, but still needs improvement, [SIFT paper](http://www.cs.ubc.ca/~lowe/keypoints/).  
 
 > Even elite researchers in the field of machine learning often have difficulty comprehending the code! 
 
