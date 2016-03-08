@@ -1,5 +1,7 @@
 # Links - Mar 8
 
+Tweetstorm on the future of AI. [@Royal_Arse](https://twitter.com/Royal_Arse/status/707196367006011393)
+
 Future of deep learning is in Tensorflow, [via blog post](http://www.somatic.io/blog/why-tensorflow-will-change-the-game-for-ai?utm_content=bufferbf744&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
 
 # Deep Learning Reading List JAN 22 2016
