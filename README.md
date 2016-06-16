@@ -1,3 +1,7 @@
-## Repo for links, videos, papers and information on Deep Learning
+# Technology-related blogs, links, videos, papers
 
-### by [@Royal_Arse](https://twitter.com/Royal_Arse)
+Deep learning, web development, much more... 
+
+I also write about [investing here](https://github.com/DeBraid/investing-notes).
+
+### Contact me [@Royal_Arse](https://twitter.com/Royal_Arse)
