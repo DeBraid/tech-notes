@@ -2,6 +2,8 @@
 
 Fabergésss (FAB-ROH-JAY-ES) is a funky way to describe the javascript ecosystem.  Lots of new tools, rapid pace of change, fragmentation of leadership and mass developer exhaustion.  
 
+![](http://i.giphy.com/8TNHNwBEhhc4g.gif)
+
 Google search 'javascript fatigue'.  There is a clear frustration on part of developers getting slammed by the paradox of choice.
 
 ## Meteor 
