@@ -38,4 +38,4 @@ The lack of clear thought put into this going forward would be foolish, so we lo
 
 AN INQUIRY INTO THE PERMANENT CAUSES OF THE DECLINE AND FALL OF POWERFUL AND WEALTHY NATIONS by [William Playfair][playfair]
 
-[playfair]: www.gutenberg.org/files/16575/16575-h/16575-h.htm
+[playfair]: https://www.amazon.ca/Permanent-Powerful-Nations-Prosperity-Prolonged-ebook/dp/B00849LBXY
