@@ -25,14 +25,29 @@ Like the [Knights of Malta](https://en.wikipedia.org/wiki/Sovereign_Military_Ord
 Power of government will be eroded as newer alternatives appear.  For example, YCombinator is about to start its minimum income experiment in Oakland.  It's easy to see how large, powerful private entities like YC can influence communities, and attract people into its sphere of influence by providing something people love.  Money, security, community, all from a private establishment...
 
 
-## Megapolitical
+## Violence and Megapolitical
 
 Big picture writing on transition of society would not be complete without acknowledging the role of violence.  History has a long track record of human profiting from violence, mainly because it often pays well.
 
-There are few examples of violence and macro politics that are helpful, one was written [200 years ago][playfair] and the other published in an economic journal is behind [paywall][lane].
+There are few examples of violence and macro politics that are helpful, one was written [200 years ago][playfair] and the other published in an economic journal shortly after WWII is behind [paywall][lane].
 
+Lane was a medieval historian, with a focus on the trading city of Venice.  He concluded that violence is organized and controlled, and have a meaningful impact on the allocation of capital, or: 
 
+> "... what uses are made of scarce resources."
 
+While the attention of the world is riveted on dishonest debates and wayward personalities the meanderings of megapolitics continue mostly unnoticed.  
+
+> while the average American has spend 100x more attention on OJ Simpson or Monica Lewinsky than the latest microtechnology trend designed to take their job and subvert the political system they rely on for unemployment.  
+
+## The Vanity of Wishes
+
+Intelligent forecasters often explain major historical events as if they were determined in a wishful way: by plan execution rather than happenstance.  Many forecasted that mega-political entities or a single global government would emerge prior to 2000, and even before the EU came into existence.  But the logic was flawed. 
+
+How would deeply flawed independent nation-states agglomerate into a harmonious whole?  They cited the failure of nation-states to control economic forces as the reason to form alliances...
+
+> to suppose that one specific form of governance will emerge because another has failed is fallacy. 
+
+Since the formation of the EU it's been hugely problematic culminating in financial crises (2012-2016) and #Brexit (2016). 
 
 
 
