@@ -10,3 +10,15 @@ There is another industrial revolution afoot on Earth.  The Information Age is g
 
 > Increasingly autonomous individuals and bankrupt, desperate governments will confront each other across a new divide.  We expect a radical restructuring of the nature of sovereignty and the **virtual death of politics** before the transition is over. 
 
+Information technology will erode the ability for the state to charge more for services than they are worth, as privatization of service provision rises.
+
+Tech enables a dramatic extension of markets by altering the way assets are created and protected.  
+
+> Citizenship will go the way of chivalry. 
+
+Denationalized citizens will no longer be citizens as we know them, but customers.  **Sovereign Individuals** will bargain for whatever limited government they need and pay for it according to contract.
+
+Like the [Knights of Malta](https://en.wikipedia.org/wiki/Sovereign_Military_Order_of_Malta), aka The Sovereign Military Order of Malta, a modern Rome-based continuation of the medieval Knights Hospitaller.  They operate a sovereign entity issuing money, creating laws and maintaining a military.  An old example of what could arise in great mass all over the globe as mega-sovereigns (modern developed economies, like G20) disaggregate into smaller entities. 
+
+> As virtual communities gain coherence they will insist their members be held accountable to their own laws, rather than those of a nation-state which they happen to reside. 
+
