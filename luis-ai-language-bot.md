@@ -35,6 +35,28 @@ From Bing, and elsewhere, you can choose list of pre-built entities like:
 
 ## Intents, Entities, and Model Training
 
+LUIS allows developers to quickly deploy an `http` endpoint that will take the `sentences` (utterances) you send it, and interpret them as `intents` and key `entities`.
+
+Once your application is deployed and traffic starts (querys are being sent / questions are being asked) LUIS uses active learning to improve itself.
+
+Hierarchical Entities: 
+> The generic entity acts as the parent and the children are the specific types, or sub-groups, under the parent, yet both share the same characteristics. 
+
+For example, a generic entity may be called “Date” and the specific children of this parent may be called “StartDate” and “EndDate”. 
+
+## Create Your Model
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
