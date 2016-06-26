@@ -27,15 +27,22 @@ Power of government will be eroded as newer alternatives appear.  For example, Y
 
 ## Megapolitical
 
-Big picture writing on transition of society would not be complete without acknowledging the role of violence.  History has a long track record of people looking to profit from violence, because sadly, it often pays very well.
+Big picture writing on transition of society would not be complete without acknowledging the role of violence.  History has a long track record of human profiting from violence, mainly because it often pays well.
 
-The lack of clear thought put into this going forward would be foolish, so we look to history for guidance.  There are few [examples][playfair] of in the literature and one of the best was published in 1804 
+There are few examples of violence and macro politics that are helpful, one was written [200 years ago][playfair] and the other published in an economic journal is behind [paywall][lane].
+
+
 
 
 
 
 ## Links
 
-AN INQUIRY INTO THE PERMANENT CAUSES OF THE DECLINE AND FALL OF POWERFUL AND WEALTHY NATIONS by [William Playfair][playfair]
+* AN INQUIRY INTO THE PERMANENT CAUSES OF THE DECLINE AND FALL OF POWERFUL AND WEALTHY NATIONS by [William Playfair][playfair]
+* Economic Consequences of Organized Violence by [Frederic C. Lane][lane].
+
+
+
 
 [playfair]: https://www.amazon.ca/Permanent-Powerful-Nations-Prosperity-Prolonged-ebook/dp/B00849LBXY
+[lane]: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7580776&fileId=S0022050700107612
