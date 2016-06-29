@@ -8,7 +8,7 @@ These are notes from reading the book, mostly paraphrased, but contains some dir
 
 Explore the death of the industrial society and it reconfiguration in new forms.  The emergence of a new form of freedom, the **Sovereign Individual**, and expect to the see complete liberation of productivity.  
 
-In contrast, we expect the death of the nation-state and many of the characteristics of equality that 20th/21st Century envisaged. Representative democracy will fade in favour of electronic `cybermarkplaces`.  Politics will be more random and inconsequential than we've grown accustom to.  
+In contrast, we expect the death of the nation-state and many of the characteristics of equality that 20th/21st Century envisaged. Representative democracy will fade in favour of electronic `cybermarketplaces`.  Politics will be more random and inconsequential than we've grown accustom to.  
 
 
 # Chapter 1: The Year 2000
@@ -61,6 +61,29 @@ How would deeply flawed independent nation-states agglomerate into a harmonious 
 Violence disrupts an Since the formation of the EU it's been hugely problematic culminating in financial crises (2012-2016) and #Brexit (2016). 
 
 Rather the opposite, micro-government, is more likely in the future. 
+
+## Y2K: A New Millennium 
+
+We expect the advent of the `Information Society` to utterly transform the world.  For simplicity use 2000 as an inflection point.  Out goes the era of Industrialization and Computerization, towards the Singularity we race. 
+
+> Large command and control systems inherited from the Industrial Era may break down.
+
+Technology is unique in that it creates a new branch of science with each information technology discovery that occurs.  Paul Graham describes this as spreading out like a fractal stain.
+
+This is a highly dynamic, non-linear evolution of an industry that produces faster, better, cheaper for the past 110 years. 
+
+
+# Chapter Two: Historical Political Transformations
+
+### The Waning of the Modern World
+
+
+
+
+
+
+
+
 
 
 
