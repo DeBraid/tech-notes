@@ -81,17 +81,7 @@ This is a highly dynamic, non-linear evolution of an industry that produces fast
 
 # Chapter 3: East of Eden
 
-
-
-
-
-
-
-
-
-
-
-
+DB: this is an interesting look at how human life changed as we evolved from hunter-gatherers into relatively sedentary farmers. 
 
 
 
@@ -100,9 +90,6 @@ This is a highly dynamic, non-linear evolution of an industry that produces fast
 
 * AN INQUIRY INTO THE PERMANENT CAUSES OF THE DECLINE AND FALL OF POWERFUL AND WEALTHY NATIONS by [William Playfair][playfair]
 * Economic Consequences of Organized Violence by [Frederic C. Lane][lane].
-
-
-
 
 [playfair]: https://www.amazon.ca/Permanent-Powerful-Nations-Prosperity-Prolonged-ebook/dp/B00849LBXY
 [lane]: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7580776&fileId=S0022050700107612
