@@ -10,11 +10,11 @@ In practice this is (likely) the exact opposite.
 
 ### Text is Binary, UI/UX is Dynamic
 
-Back end => data and architecture as text
-Front end => data and architecture as user interface
+* Back end => data and architecture as text
+* Front end => data and architecture as user interface
 
-Back-end => client is the customer.  A machine (the client, aka front-end) is user. 
-Front-end => human is the customer.  A live person is the user.
+* Back-end => client is the customer.  A machine (the client, aka front-end) is user. 
+* Front-end => human is the customer.  A live person is the user.
 
 ### Unwanted Feedback 
 
