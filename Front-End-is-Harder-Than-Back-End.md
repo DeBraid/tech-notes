@@ -1,6 +1,6 @@
 # Front End is Harder Than Back End
 
-(Below a sloppy first pass.  Posit: common belief that back end development `harder` than front end is false.  Certainly false in practice, maybe false in theory)
+Posit: common belief that back end development is `harder` than front end development likely is false.  It's very likely false in practice, maybe perhaps also likely in theory.
 
 ### Modern Web & Mobile Application Development is Hard
 
@@ -22,7 +22,17 @@ Another way to consider this problem: because everyone can consume an app (clien
 
 Front-end feedback is rich and diverse.  Back end feedback is often binary.  Most of this feedback is worthless, but nevertheless people are very often quick to provide commentary on layout, text content and pixel location. 
 
-In contrast, back end development is very binary.  Write or wrong?  Data there and correct? OK WERE DONE!  Format the data once, send/receive.  
+In contrast, back end development is very binary.  Is the text right or wrong?  HTTP 200 or 404? (The other codes are meaningful too, I'm having some fun! ;) )   
+
+If the data is correct, you may pass.  Format the data once, send/receive forever.  
+
+### Does Data got style? 
+
+Well it has a model.  But most front-ends consume REST endpoints that spew out blobs.   
+
+Blobs of data more often than not contain fields that are useless/redundant.  Some `.then()` block will mutate the data into the form you want, but you're judged primarily on whether or not the data can be sent over a wire.
+
+Front end style can be, and more often than not, IS ENDLESSLY DEBATED by anyone with eye balls.  Functionality is eschewed for presentation.  There is little science, and much emotion in the process of UI/UX, making the human-problems associated with front-end web development far more time-consuming and challenging than back-end. 
 
 ### Runtime Environments 
 
@@ -41,6 +51,10 @@ Features on the front end contain much hand-waving and assumptions.  Because pro
 There are good parts, and bad parts.  But there are no alternatives.  Browsers run JS, and front-end work is done in JS.
 
 Back end work is more flexible and thus plug-and-play-like.  Consume and produce text, whatever does this, doesn't matter.  JS, GO, Python, Ruby, Elixor, whatever.  Just send and receive text reliably and quickly , KTHNX.
+
+### Future Considerations? 
+
+AI... design is going win the labout market over data architects and network specialists. Maybe it already has (Jobs vs Woz?).
 
 ### FLAWS 
 
