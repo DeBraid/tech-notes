@@ -39,7 +39,9 @@ It is far more common to die from A than B.  A means the product is broken, and 
 
 Can you show some examples of this? Are there any instances of startups dying because their tech stack prohibited scaling?
 
-It's not clear there is any data here. 
+It's not clear there is any data here.  Some have speculated that MySpace was killed because it couldn't scale.  The overall tone [here][MySpaceLink] suggests: 
+
+> MySpace's problems are much less about the technology platform choices they have made (Microsoft vs. anything else) and more about engineering leadership, market positioning and time to react, etc.
 
 PG in his "beating the averages" essay: 
 
@@ -51,10 +53,7 @@ Agility over optimizing for scale.  He continues:
 
 Emphasis on moving quickly, not scaling.
 
-## Stack Exchange on Scaling
-
-
-
 
 [1]:homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 [2]:https://www.youtube.com/watch?v=668vPl7q3xg&lc=z12zzv2pjsvjw5yaj04ccb5bozjxefuqkj4.1483890770309382
+[MySpaceLink]:highscalability.com/blog/2011/3/25/did-the-microsoft-stack-kill-myspace.html
