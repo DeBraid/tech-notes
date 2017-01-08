@@ -61,7 +61,7 @@ Paul Graham in his "beating the averages" essay:
 
 I put the question to PG on [twitter][PG], his response: 
 
-<img src="pg-on-optimizing-for-scale.png" width="300px">
+<img src="pg-on-optimizing-for-scale.png" width="500px">
 
 Agility over optimizing for scale.  He continues: 
 
