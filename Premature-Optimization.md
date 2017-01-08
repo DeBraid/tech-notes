@@ -59,6 +59,10 @@ Paul Graham in his "beating the averages" essay:
 
 > This is not just a theoretical question. Software is a very competitive business, prone to natural monopolies. A company that gets software written faster and better will, all other things being equal, put its competitors out of business. 
 
+I put the question to PG on [twitter][PG], his response: 
+
+![Paul Graham on Optimization](pg-on-optimizing-for-scale.png)
+
 Agility over optimizing for scale.  He continues: 
 
 > And when you're starting a startup, you feel this very keenly. Startups tend to be an all or nothing proposition. You either get rich, or you get nothing. In a startup, if you bet on the wrong technology, your competitors will crush you.
@@ -70,3 +74,4 @@ Emphasis on moving quickly, not scaling.
 [2]:https://www.youtube.com/watch?v=668vPl7q3xg&lc=z12zzv2pjsvjw5yaj04ccb5bozjxefuqkj4.1483890770309382
 [MySpaceLink]:highscalability.com/blog/2011/3/25/did-the-microsoft-stack-kill-myspace.html
 [SVSG]:svsg.co/how-to-choose-your-tech-stack/
+[PG]:https://twitter.com/Royal_Arse/status/818122440022822912
