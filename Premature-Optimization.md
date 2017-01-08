@@ -12,9 +12,21 @@ Back to Unix
 The most basic argument for prototyping first is Kernighan & Plauger's quote: 
 > “90% of the functionality delivered now is better than 100% of it delivered never”. 
 
-"Prototyping first may help keep you from investing far too much time for marginal gains. For slightly different reasons, Donald Knuth (author of The Art Of Computer Programming, one of the field's few true classics) popularized the observation that “Premature optimization is the root of all evil”.[11] And he was right." [Source][1].
+"Prototyping first may help keep you from investing far too much time for marginal gains. For slightly different reasons, Donald Knuth (author of The Art Of Computer Programming, one of the field's few true classics) popularized the observation that “Premature optimization is the root of all evil”.[11] And he was right." [Source: Basics of Unix Philosophy][1].
 
 > Rule of Optimization: Prototype before polishing. 
+
+Unix community is unambigous about their goals to prototype, then scale.  More from [Basics of Unix][1]: 
+
+> In the Unix world there is a long-established and very explicit tradition that says: Prototype, then polish. Get it working before you optimize it. 
+
+Stated otherwise; *Make it work first, then make it work fast.* 
+
+‘Extreme programming' guru Kent Beck, operating in a different culture, has usefully amplified this to: 
+
+> “Make it run, then make it right, then make it fast”.  
+
+## Application for Modern Startups
 
 Why is this?  Lets focus on two (of many) possible reasons startups die: 
 
@@ -28,6 +40,21 @@ It is far more common to die from A than B.  A means the product is broken, and 
 Can you show some examples of this? Are there any instances of startups dying because their tech stack prohibited scaling?
 
 It's not clear there is any data here. 
+
+PG in his "beating the averages" essay: 
+
+> This is not just a theoretical question. Software is a very competitive business, prone to natural monopolies. A company that gets software written faster and better will, all other things being equal, put its competitors out of business. 
+
+Agility over optimizing for scale.  He continues: 
+
+> And when you're starting a startup, you feel this very keenly. Startups tend to be an all or nothing proposition. You either get rich, or you get nothing. In a startup, if you bet on the wrong technology, your competitors will crush you.
+
+Emphasis on moving quickly, not scaling.
+
+## Stack Exchange on Scaling
+
+
+
 
 [1]:homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 [2]:https://www.youtube.com/watch?v=668vPl7q3xg&lc=z12zzv2pjsvjw5yaj04ccb5bozjxefuqkj4.1483890770309382
