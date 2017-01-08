@@ -43,7 +43,19 @@ It's not clear there is any data here.  Some have speculated that MySpace was ki
 
 > MySpace's problems are much less about the technology platform choices they have made (Microsoft vs. anything else) and more about engineering leadership, market positioning and time to react, etc.
 
-PG in his "beating the averages" essay: 
+[SVSG][SVSG], Silicon Valley Software Group (international group of CTOs who provide technology leadership and distributed engineering to companies of all sizes) asks:
+
+Will my tech stack scale? 
+
+> Choosing a tech stack is a commitment that’s not easily reversed, so concerns related to future circumstances like scalability and performance are common. However, trying to address these concerns at the MVP stage *would be premature*.
+
+They say at the MVP stage, because being nimble and creating features is key.  They clarify: 
+
+> Many performance issues are a product of application design, not technology choice. They can be resolved through tuning and optimization, and you’ll have a bigger budget to deal with them as you grow.
+
+Once you have traction, you can raise money to address scaling issues.  This is a hard problem, but a necessary one.  If you don't have the right features, you will never encounter this problem, so get the MVP right, and make something people love. 
+
+Paul Graham in his "beating the averages" essay: 
 
 > This is not just a theoretical question. Software is a very competitive business, prone to natural monopolies. A company that gets software written faster and better will, all other things being equal, put its competitors out of business. 
 
@@ -57,3 +69,4 @@ Emphasis on moving quickly, not scaling.
 [1]:homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html
 [2]:https://www.youtube.com/watch?v=668vPl7q3xg&lc=z12zzv2pjsvjw5yaj04ccb5bozjxefuqkj4.1483890770309382
 [MySpaceLink]:highscalability.com/blog/2011/3/25/did-the-microsoft-stack-kill-myspace.html
+[SVSG]:svsg.co/how-to-choose-your-tech-stack/
