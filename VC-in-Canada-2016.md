@@ -85,9 +85,15 @@ Equity ensures the investors are committed to the long term outcome.  They have 
 
 OMERS Ventures made 4 investments in 2015.  THIS IS INSANE.  They raised $260 Million dollars in 2015.  Total funding $470 million, they self-proclaim "...our two funds together represent one of the largest long-term private capital pools active in Canada’s venture sector"
 
-Despite their cash, US investors provided ~52% ($559M) of all capital invested in Canadian startups in 2016.  Fifty cents on the dollar comes from the US?! In 2015, US investors poured $482M into Canadian venture capital market (48% of all VC).
-
 From 2011-2015 OMERS Ventures invested in 23 startups, "doubling venture capital spending", via [Financial Post][FP].
+
+### OMERS vs Canadian VC 
+
+Omers is not the only party to blame for the sorry state of Canadian seed funding!  Every single VC in Canada should give their head a shake and stop pretending they can pick winners (or produce the data to prove they can!). 
+
+The numbers are striking: US investors provided more than HALF all venture capital in Canada.  They will skew towards growth rounds because established companies are less likely to die than pre-revenue startups.
+
+Back to the figures.  Estimates from OMERS suggest *American investors provided ~52% of all venture capital invested in Canadian startups in 2016* ($559 million CAD).  Fifty cents on the dollar comes from the US?! Surely this is anomalous?  Nope.  Last year (2015), US investors contributed ~ half of all VC, a total of $482 million into Canadian market (48% of total).
 
 ### YC vs. VC
 
