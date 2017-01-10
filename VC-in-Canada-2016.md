@@ -26,7 +26,7 @@ He continues to describe the great sacrifices required to start a company, and g
 
 > At one point I started delivering food for Hurrier on my bike... I froze my ass off for a few months delivering food downtown for about $14 an hour.
 
-What is a small seed round enabled founders like Alec to focus more on their startup and less on immediate cash flow?
+What if a small seed round enabled founders like Alec to focus more on their startup and less on immediate cash flow?
 
 Clearly the economy would be better off.
 
