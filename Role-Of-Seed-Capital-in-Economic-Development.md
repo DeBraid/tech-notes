@@ -1,6 +1,6 @@
 # Role Of Seed Capital in Economic Development
 
-An essay on transformation impact of seed capital for entrepreneurs and it's effect on regional economic development. 
+An essay on transformation impact of seed capital for entrepreneurs and it's cascading effect on regional economic development. 
 
 By *Derek Braid*, aka [@Royal_Arse](https://twitter.com/Royal_Arse/status/818476729022955520).
 
