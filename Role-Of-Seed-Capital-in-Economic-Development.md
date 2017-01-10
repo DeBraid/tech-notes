@@ -56,7 +56,7 @@ Passive VC, in my terms, is something like YCombinator (YC).  Not exactly like Y
 * each startup gets an office for 3 months, and enough money get their MVP polished and shipped
 * the terms and process are simple and transparent: $100k, 7.5% equity, 13 weeks
 
-The rest will take care of itself.  Because equity is involved the incentives of founders and investors are aligned (unlike most of the Toronto-based )
+The rest will take care of itself.  Because equity is involved the incentives of founders and investors are aligned (unlike many popular Toronto-based incubators).  Incubators should not behave like charities but capitalist-based businesses.  Take equity, be a partner with some skin in the game. 
 
 ## Ego, Performance, Culture
 
