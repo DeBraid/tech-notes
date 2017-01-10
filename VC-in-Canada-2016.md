@@ -1,3 +1,10 @@
+# EDIT
+
+Most recent version of this essay is here: https://github.com/DeBraid/tech-notes/blob/master/Role-Of-Seed-Capital-in-Economic-Development.md
+
+Below is an earlier draft.
+__________________________________________
+
 # Role Of Seed Capital in Economic Development
 
 An essay on transformation role of seed capital for entrepreneurs and it's impact on regional econoic development. 
