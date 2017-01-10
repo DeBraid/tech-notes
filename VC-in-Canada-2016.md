@@ -22,6 +22,16 @@ Without a runway, you might have to move back in with your parents!  That happen
 
 > Going back to my parents’ home was one of the hardest things I’ve done. 
 
+He continues to describe the great sacrifices required to start a company, and get some cash flow: 
+
+> At one point I started delivering food for Hurrier on my bike... I froze my ass off for a few months delivering food downtown for about $14 an hour.
+
+What is a small seed round enabled founders like Alec to focus more on their startup and less on immediate cash flow?
+
+Clearly the economy would be better off.
+
+## Seed is the Runway.
+
 Seed capital is the runway that lubricates capitalism.  It is the minimum basic income to allow founders to eat and sleep in their home without moving back in with their parents, or squatting with 5+ roommates in a small house. 
 
 Seed capital reduces the financial risks for startup founders.  $100k divided by 3 founders, means they can dedicate 1 year of their lives to nothing but building a new company and be paid just below median income (in Canada).
