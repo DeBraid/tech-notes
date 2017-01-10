@@ -10,17 +10,21 @@ Clearly seed stage is lacking in Canada, this article aims to explore why pre-se
 
 ## Runway 
 
-Put yourself in the shoes of a talented, ambitous person, lets call her Linda.
+Put yourself in the shoes of a talented, ambitious person, lets call her Linda.
 
-Linda is an educated mother of 2.  She has a background in a STEM field, and has domain expertise in banking and finance.  She is gainfully employed at a large bank, but seems inefficiency everywhere that software could eliminate.  She has two collegues, one a former roomate, another current coworker, who have an itch to start a startup. 
+Linda is an educated mother of 2.  She has a background in a STEM field, and has domain expertise in banking and finance.  She is gainfully employed at a large bank, but sees inefficiency everywhere that software could eliminate.  She has two colleagues, one a former university roommate, another current coworker, who have an itch to start a startup and would make great co-founders. 
 
-What steps should they take to break off and start their own business?
-
-They should quit their job to focus on building their new business.  Committing time and attention to the new task must be all encompassing in order to succeed!
+What steps should they take to break off and start their own business?  They should quit their job to focus on building their new business.  Committing time and attention to the new task must be all encompassing in order to succeed!
 
 But, theres a problem: they have `good jobs`, and families, and mortgages, etc.  Like most people under 50, they have limited savings.  They need a runway.
 
-Seed capital is the runway that lubricates capitalism.  It reduces the financial risks for startup founders.  $100k divided by 3 founders, means they can dedicate 1 year of their lives to nothing but building a new company and be paid just below median income (in Canada).
+Without a runway, you might have to move back in with your parents!  That happened to @alec_levin who moved back home with his girlfriend, living at both their parents houses while trying to start a startup.  [Alec says](https://medium.com/@alec_levin/losing-a-home-and-the-value-of-a-dollar-661bb0b1164a#.xkbbjzyux): 
+
+> Going back to my parents’ home was one of the hardest things I’ve done. 
+
+Seed capital is the runway that lubricates capitalism.  It is the minimum basic income to allow founders to eat and sleep in their home without moving back in with their parents, or squatting with 5+ roommates in a small house. 
+
+Seed capital reduces the financial risks for startup founders.  $100k divided by 3 founders, means they can dedicate 1 year of their lives to nothing but building a new company and be paid just below median income (in Canada).
 
 This is the minimum basic income that someone earning 6-figures will accept to leave their job, take the personal and professional risks required to start a startup. 
 
@@ -125,8 +129,6 @@ Screening startups, FounderFuel will ask founders as 3 Questions:
 * founders and teams matter the most. Resilience, curiosity, humility and persistence. 
 
 Conversely, building a startup ecosystem from scratch is a 20-year investment, via [Brad Feld](http://knowledge.wharton.upenn.edu/article/techstars-brad-feld-a-startup-community-needs-a-20-year-time-horizon/).  So be in it for the long haul.
-
-
 
 ## Mid market VC is a trap! 
 
