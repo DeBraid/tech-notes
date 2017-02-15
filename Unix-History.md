@@ -37,6 +37,31 @@ It did not help RMS's case that, although his Free Software Foundation had produ
 ## Linux and the Pragmatist Reaction: 1991-1998
 
 
+## The Open-Source Movement: 1998 and Onward
+
+The galvanizing effect of the Netscape announcement, and of the new prominence of Linux, reached well beyond the Unix community and the hacker culture. Beginning in 1995, developers from various platforms in the path of Microsoft's Windows juggernaut (MacOS; Amiga; OS/2; DOS; CP/M; the weaker proprietary Unixes; various mainframe, minicomputer, and obsolete microcomputer operating systems) had banded together around Sun Microsystems's Java language. 
+
+There was one exception: Richard Stallman and the Free Software Movement. “Open source” was explicitly intended to replace Stallman's preferred “free software” with a public label that was ideologically neutral, acceptable both to historically opposed groups like the BSD hackers and those who did not wish to take a position in the GPL/anti-GPL debate. Stallman flirted with adopting the term, then rejected it on the grounds that it failed to represent the moral position that was central to his thinking. The Free Software Movement has since insisted on its separateness from “open source”, creating perhaps the most significant political fissure in the hacker culture of 2003.
+
+## The Lessons of Unix History
+
+> when and where Unix has adhered most closely to open-source practices, it has prospered. 
+
+Attempts to proprietarize it have invariably resulted in stagnation and decline.
+
+In retrospect, this should be obvious. 
+
+> We lost ten years after 1984 learning our lesson, and it would probably serve [UNIX] very ill to ever again forget it.
+
+Another lesson:
+
+> Never bet against the cheap plastic solution. 
+
+IOW, low-end/high-volume hardware technology almost always ends up climbing the power curve and winning. 
+
+Clay Christensen calls this `disruptive technology` and showed in The Innovator's Dilemma how this happened with disk drives, steam shovels, and motorcycles.
+
+To prosper, Unix needs to maintain the knack of co-opting the cheap plastic solution rather than trying to fight it.
 
 
 
