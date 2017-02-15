@@ -6,6 +6,8 @@ By *Derek Braid*, aka [@Royal_Arse](https://twitter.com/Royal_Arse/status/818476
 
 ### VC in Canada 2016
 
+Total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year (in US, deals and dollars dropped 16% and 20%, respectively via [betakit](betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/)).  Total of $77 billion ($58.6 billion USD) was invested across 4,520 VC deals in US-based companies.
+
 OMERS Ventures estimates that total venture capital (VC) invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.
 
 It is encouraging to see early-stage companies getting more funding year-over-year.  But the fact seed funding was down is alarming, and needs to be corrected.
@@ -210,3 +212,5 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [PT]:http://startupclass.samaltman.com/courses/lec05/
 
 [FF2016Review]:https://medium.com/@froginthevalley/state-of-the-canadian-startup-ecosystem-june-2016-edition-7bd4cefb6654#.4at1vlz8y
+
+[PWC]:https://www.pwc.com/us/en/moneytree-report/assets/PwC%20&%20CB%20Insights%20MoneyTree%20Report%20-%20Q4'16_Final%20V1.pdf
