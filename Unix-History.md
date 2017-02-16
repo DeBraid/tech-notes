@@ -63,5 +63,7 @@ Clay Christensen calls this `disruptive technology` and showed in The Innovator'
 
 To prosper, Unix needs to maintain the knack of co-opting the cheap plastic solution rather than trying to fight it.
 
+> The largest-scale pattern in the history of Unix is this: when and where Unix has adhered most closely to open-source practices, it has prospered. Attempts to proprietarize it have invariably resulted in stagnation and decline.
 
+UNIX had it's own lost decade because it was too stubborn to adapt.  Both business model and technical dogma held it back. 
 
