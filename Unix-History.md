@@ -67,3 +67,25 @@ To prosper, Unix needs to maintain the knack of co-opting the cheap plastic solu
 
 UNIX had it's own lost decade because it was too stubborn to adapt.  Both business model and technical dogma held it back. 
 
+# The Elements of Operating-System Style
+
+Cost, culture and ego shape operating system (OS) design. 
+
+UNIX success can be attributed to two specific design choices: 
+
+* 'everything is a file'
+* pipes
+
+OS design impacts the programs that get run on them. The unifying ideas will "percolate upwards".
+
+### Multitasking
+
+Systems that cannot support multiple processes quickly became obsolete (DOS and CP/M).
+
+Cooperative multitasking systems can support multiple processes, but must voluntarily give up its hold on the processor before the next process can run (thus, simple programming errors can readily freeze the machine).  This too was flawed and tailored to the hardware available at the time, now also obsolete.
+
+> Unix has preemptive multitasking, in which timeslices are allocated by a scheduler which routinely interrupts or pre-empts the running process in order to hand control to the next one. Almost all modern operating systems support preemption.
+
+
+
+
