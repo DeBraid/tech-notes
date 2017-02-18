@@ -28,6 +28,12 @@ Canadian venture capital fundraising up 81% YoY, with 26 funds raising $2.2 bill
 
 Despite this, according to [Thompson Reuters][TR], 2016 was boom year for total dollars investing in Canadian startups, with total investments reaching a 14-year. However, the number of VC rounds was down 3% YoY, and the number of companies financed fell by 7%.
 
+## Canadian Fund Performance: WOMP WOMP
+
+Current approach to VC in Canada is not working.  The performance of Canadian VC has been awful, returning only 2.9% (for funds started 2000 or later, VC & growth equity funds data from Cambridge Associates, via [TR][TR]).
+
+Returns lag far behind US counterparts, public market equivalents, and only recently returning to positive territory. Results-oriented culture might force the VCs to try another strategy, such as many more, smaller deals (spray and pray) vs. current post-Series A rounds (smartest person in the room).
+
 ## Runway: Put Founders First
 
 Put yourself in the shoes of a talented, ambitious person, lets call her Linda.
