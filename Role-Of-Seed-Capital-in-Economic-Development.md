@@ -15,7 +15,7 @@ OMERS Ventures estimates that total venture capital (VC) invested into Canadian 
 Methodology differences likely account for the contrasting figures, as TR includes "Investment by Canadian funds in non-Canadian companies" ($680 million, 92 deals), which (it appears) @OMERSVentures omits.
 
 ### Total Dollars Up
-<img src="2002-2016-VC-in-Canada-Deal-Values.png">
+<img src="2002-2016-VC-in-Canada-Values.png">
 ### Total Deals Down
 <img src="2002-2016-VC-in-Canada-Deal-Volume.png">
 
