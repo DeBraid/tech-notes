@@ -37,6 +37,8 @@ Despite this, according to [Thompson Reuters][TR], 2016 was boom year for total 
 
 Current approach to VC in Canada is not working.  The performance of Canadian VC has been awful, returning only 2.9% (for funds started 2000 or later, VC & growth equity funds data from Cambridge Associates, via [TR][TR]).
 
+<img src="2010-2016-VC-perf-in-Canada.png">
+
 Returns lag far behind US counterparts, public market equivalents, and only recently returning to positive territory. Results-oriented culture might force the VCs to try another strategy, such as many more, smaller deals (spray and pray) vs. current post-Series A rounds (smartest person in the room).
 
 ## Runway: Put Founders First
