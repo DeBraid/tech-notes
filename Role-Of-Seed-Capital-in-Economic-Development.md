@@ -14,6 +14,11 @@ OMERS Ventures estimates that total venture capital (VC) invested into Canadian 
 
 Methodology differences likely account for the contrasting figures, as TR includes "Investment by Canadian funds in non-Canadian companies" ($680 million, 92 deals), which (it appears) @OMERSVentures omits.
 
+### Total Dollars Up
+<img src="2002-2016-VC-in-Canada-Deal-Values.png">
+### Total Deals Down
+<img src="2002-2016-VC-in-Canada-Deal-Volume.png">
+
 It is encouraging to see early-stage companies getting more funding year-over-year.  Growth was driven by large cap VC deals, with 14 companies raising rounds $50 million or greater in 2016, boosting the average VC deal size to $6.5 million (encouraging but still well behind USA ($16.7 million), UK ($13.9 million), and Israel ($14.4 million)).  
 
 Despite some gains in total dollars, Canada has long way to go, especially in terms of seed funding (down YoY).  More seed funding is essential to foster innovation and breed successful startups, the lack of seed capital in Canada is alarming, and needs to be corrected.
