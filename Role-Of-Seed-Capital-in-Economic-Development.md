@@ -191,6 +191,13 @@ Daniels lists several reasons more seed (and pre-seed) is good. For starters, th
 
 Standardized terms removes confusion for founders. Also helps investors understand their risk/reward better.  Keep the funding simple, focus on the product (cut out the bankers and lawyers!).
 
+
+### Charts
+
+#### Global Average Deal Size
+
+<img src="2016-global-avg-deal-size.png">
+
 ### Other Sources & Inspirations: 
 
 Related Tweetstorm https://twitter.com/Royal_Arse/status/818476729022955520
