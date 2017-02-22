@@ -11,7 +11,9 @@ Bit of blockchain-related jargon, but getting past that...
 
 > SCE’s strategy is to “push as much in the software as possible,” attempting to find tools that allow greater visibility and control over distributed resources on the system
 
-Much easier to harvest digital assets, like a software-based currency *bitcoin*, rather than tedious endeavour of managing physical assets like batteries and diesel generators.  At worst, using bitcoin mining hardware as a release valve for exceed electricity generation is a great short-term bet (while the kinks are ironed out around managing physical DERs).
+Much easier to harvest digital assets, like a software-based currency *bitcoin*, rather than tedious endeavor of managing physical assets like batteries and diesel generators.  At worst, using bitcoin mining hardware as a release valve for surplus electricity generation is a great short-term bet (while the kinks are ironed out around managing physical DERs).
+
+Model something like: overshoot on production, sponge up excess with software (mining bitcoin).
 
 > utility’s current role more as an “integrator” than a command-and-control operator of DERs
 
@@ -30,6 +32,16 @@ By allocating surplus energy to something that generates cash (bitcoin) -- witho
 ## Pools 
 
 A network of (location-specific) bitcoin-mining pools could be established by utilities in neighbouring areas. Geographic region(s) could allocate power collectively to bitcoin mining and immediately boost their economic outputs (more compute, more bitcoin).
+
+### How Mining Pools Work
+
+> multiple generating clients contribute to the generation of a block, and then split the block reward 
+
+The split is done according the contributed processing power. Pooled mining effectively spreads out the rewards more smoothly over time.  
+
+> problem with pooled mining is that steps must be taken to prevent cheating by the clients and the server. 
+
+For an overview of the different types of pooled mining, see https://en.bitcoin.it/wiki/Pooled_mining
 
 # Related Links 
 
