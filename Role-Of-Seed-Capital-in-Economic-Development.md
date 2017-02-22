@@ -8,15 +8,40 @@ By *Derek Braid*, aka [@Royal_Arse](https://twitter.com/Royal_Arse/status/818476
 
 Total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year (in US, deals and dollars dropped 16% and 20%, respectively via [betakit](betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/)).  Total of $77 billion ($58.6 billion USD) was invested across 4,520 VC deals in US-based companies.
 
-OMERS Ventures estimates that total venture capital (VC) invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.
+OMERS Ventures estimates that total venture capital (VC) invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.  Other data from [Thompson Reuters][TR], suggest:
 
-It is encouraging to see early-stage companies getting more funding year-over-year.  But the fact seed funding was down is alarming, and needs to be corrected.
+> 459 Canadian companies closed 571 rounds of financing totalling $3.7 billion. 
+
+Methodology differences likely account for the contrasting figures, as TR includes "Investment by Canadian funds in non-Canadian companies" ($680 million, 92 deals), which (it appears) @OMERSVentures omits.
+
+### Total Dollars Up
+<img src="2002-2016-VC-in-Canada-Values.png">
+### Total Deals Down
+<img src="2002-2016-VC-in-Canada-Deal-Volume.png">
+
+It is encouraging to see early-stage companies getting more funding year-over-year.  Growth was driven by large cap VC deals, with 14 companies raising rounds $50 million or greater in 2016, boosting the average VC deal size to $6.5 million (encouraging but still well behind USA ($16.7 million), UK ($13.9 million), and Israel ($14.4 million)).  
+
+Despite some gains in total dollars, Canada has long way to go, especially in terms of seed funding (down YoY).  More seed funding is essential to foster innovation and breed successful startups, the lack of seed capital in Canada is alarming, and needs to be corrected.
 
 <img src="2016-vc-in-canada-chart.png">
 
 Clearly seed stage is lacking in Canada, this article aims to explore why pre-seed financing is so important for economic growth.
 
-## Runway 
+### VC Funds are Flush with Cash 
+
+Canadian venture capital fundraising up 81% YoY, with 26 funds raising $2.2 billion in 2016 (a 13-year high, via [PEHub][PEHub]).
+
+Despite this, according to [Thompson Reuters][TR], 2016 was boom year for total dollars investing in Canadian startups, with total investments reaching a 14-year. However, the number of VC rounds was down 3% YoY, and the number of companies financed fell by 7%.
+
+## Canadian Fund Performance: WOMP WOMP
+
+Current approach to VC in Canada is not working.  The performance of Canadian VC has been awful, returning only 2.9% (for funds started 2000 or later, VC & growth equity funds data from Cambridge Associates, via [TR][TR]).
+
+<img src="2010-2016-VC-perf-in-Canada.png">
+
+Returns lag far behind US counterparts, public market equivalents, and only recently returning to positive territory. Results-oriented culture might force the VCs to try another strategy, such as many more, smaller deals (spray and pray) vs. current post-Series A rounds (smartest person in the room).
+
+## Runway: Put Founders First
 
 Put yourself in the shoes of a talented, ambitious person, lets call her Linda.
 
@@ -166,6 +191,13 @@ Daniels lists several reasons more seed (and pre-seed) is good. For starters, th
 
 Standardized terms removes confusion for founders. Also helps investors understand their risk/reward better.  Keep the funding simple, focus on the product (cut out the bankers and lawyers!).
 
+
+### Charts
+
+#### Global Average Deal Size
+
+<img src="2016-global-avg-deal-size.png">
+
 ### Other Sources & Inspirations: 
 
 Related Tweetstorm https://twitter.com/Royal_Arse/status/818476729022955520
@@ -214,3 +246,7 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [FF2016Review]:https://medium.com/@froginthevalley/state-of-the-canadian-startup-ecosystem-june-2016-edition-7bd4cefb6654#.4at1vlz8y
 
 [PWC]:https://www.pwc.com/us/en/moneytree-report/assets/PwC%20&%20CB%20Insights%20MoneyTree%20Report%20-%20Q4'16_Final%20V1.pdf
+
+[PEHub]:https://www.pehub.com/canada/2017/2/3434113/
+
+[TR]:https://www.pehub.com/wp-content/uploads/2017/02/Canadian-Venture-Capital-Review-2016-2.pdf
