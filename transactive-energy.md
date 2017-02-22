@@ -30,3 +30,9 @@ By allocating surplus energy to something that generates cash (bitcoin) -- witho
 ## Pools 
 
 A network of (location-specific) bitcoin-mining pools could be established by utilities in neighbouring areas. Geographic region(s) could allocate power collectively to bitcoin mining and immediately boost their economic outputs (more compute, more bitcoin).
+
+# Related Links 
+
+* https://www.edison.com/content/dam/eix/documents/innovation/smart-grids/Introducing%20SCE%20Grid%20Management%20System%202.5.16.b.pdf
+
+* https://www.greentechmedia.com/articles/read/the-energy-blockchain-could-bitcoin-be-a-catalyst-for-the-distributed-grid
