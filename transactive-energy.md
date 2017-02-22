@@ -1,4 +1,6 @@
-# Notes from Transactive Energy (TE)
+# Bitcoin is a Better Battery.
+
+### Notes from Transactive Energy (TE)
 
 General caveats and biases:
 
@@ -7,7 +9,7 @@ General caveats and biases:
 
 Now read this link: http://www.utilitydive.com/news/distributech-2017-why-utilities-are-skeptical-about-transactive-energy/436047/
 
-Bit of blockchain-related jargon, but getting past that... 
+Bit of blockchain-related jargon, but getting into the content above: 
 
 > SCE’s strategy is to “push as much in the software as possible,” attempting to find tools that allow greater visibility and control over distributed resources on the system
 
@@ -42,6 +44,10 @@ The split is done according the contributed processing power. Pooled mining effe
 > problem with pooled mining is that steps must be taken to prevent cheating by the clients and the server. 
 
 For an overview of the different types of pooled mining, see https://en.bitcoin.it/wiki/Pooled_mining
+
+## Caveats
+
+This is pure speculation and has not been modeled or demonstrated empirically.  If you have the numbers to support or refute this conjecture, please share them with me on Twitter @Royal_Arse.
 
 # Related Links 
 
