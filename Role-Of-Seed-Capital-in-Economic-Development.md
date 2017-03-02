@@ -232,8 +232,11 @@ Others have shown that bottom-up approach to economic development can lead to re
 
 > The evolution of the world’s largest clusters has occurred over a long period of time. These were not planned and went unnoticed until they reached a level of activity that warranted attention. 
 
-Omitted here are the volumes of work on Silicon Valley and re-creating the magic there.  This is difficult for several reasons.
+## Silicon Valley 2.0
 
+Omitted here are the volumes of work on recreating Silicon Valley and the magic of the world's most robust tech ecosystem.  
+
+If this topic interests you, I am writing a [book on it here][DBBook].
 
 ### Charts
 
@@ -306,3 +309,5 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [OSU]:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1496226
 
 [DearingBlitz]:https://github.com/DeBraid/investing-notes/blob/master/blitzscaling-dearing-reid-hoffman.md
+
+[DBBook]:https://github.com/DeBraid/ham-innov-essay
