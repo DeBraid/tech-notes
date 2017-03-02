@@ -1,16 +1,60 @@
 # Role Of Seed Capital in Economic Development
 
-An essay on transformation impact of seed capital for entrepreneurs and it's cascading effect on regional economic development. 
+An essay on transformation impact of seed capital for entrepreneurs and it's cascading effect on regional economic development.  Focusing on Canada, I'll show that VCs are flush with cash but do not allocate enough to seed and pre-seed ventures, and consequently fail to generate comparable returns to US VCs, or stock indices. 
+
+Allocating more VC to seed stage companies gives founders a risk-taking runway and encourages talented people to take necessary risks to start a company.
 
 By *Derek Braid*, aka [@Royal_Arse](https://twitter.com/Royal_Arse/status/818476729022955520).
 
+## Runway: Put Founders First
+
+Put yourself in the shoes of a talented, ambitious person, lets call her Linda.
+
+Linda is an educated mother of 2.  She has a background in a STEM field, and has domain expertise in finance.  She is gainfully employed at a large bank, but sees inefficiency that software could eliminate.  
+
+Linda has two colleagues, one a former university roommate, another current coworker, with an itch to start a startup and would make great co-founders. 
+
+### How to Start a Startup?
+
+What steps should they take to break off and start their own business?  They should quit their job to give 100% focus on building their new business.  Committing full-time and attention to the new task must be all encompassing in order to succeed!  Therefore they must give up their income and sacrifice for their passion.
+
+There's a problem: they have `good jobs`, and families, and mortgages, etc.  Like most people under 50, they have limited savings.  They need a runway.
+
+Without a runway, founders are essentially risking their financial livelihoods to start a business.  This seems perverse in a culture that desires more small businesses. 
+
+These founders might have to move back in with their parents!  That happened to @alec_levin and his girlfriend who resorted to moving back home with their parents while trying to start a startup.  [Alec says](https://medium.com/@alec_levin/losing-a-home-and-the-value-of-a-dollar-661bb0b1164a#.xkbbjzyux): 
+
+> Going back to my parents’ home was one of the hardest things I’ve done. 
+
+He continues to describe the great sacrifices required to start a company, and get some cash flow: 
+
+> At one point I started delivering food for Hurrier on my bike... I froze my ass off for a few months delivering food downtown for about $14 an hour.
+
+What if a small seed round enabled founders like Alec to focus more on their startup and less on immediate cash flow?
+
+Clearly the founders would benefit, and so would the economy.
+
+## Seed is the Runway
+
+Seed capital is the runway that lubricates capitalism.  
+
+It is the *minimum basic income* to allow founders to eat and sleep in their home without moving back in with their parents, or squatting with 5+ roommates in a small house. 
+
+Seed capital reduces the financial risks for startup founders.  $100k divided by 3 founders, means they can dedicate 1 year of their lives to nothing but building a new company and be paid just below median income (in Canada).
+
+This is the minimum basic income that someone earning 6-figures will accept to leave their job, take the personal and professional risks required to start a startup. 
+
+And that is just to start!  The risks are much greater and varied, but the most obvious impediment is that founders are scared of having $0 income.  Eliminate this issue by allocating many small seed investments ($100k in exchange for 5-10% equity).
+
 ### VC in Canada 2016
 
-Some different numbers out there based on source.  [PWC][PWC]reports total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year.  By contrast, US VC deals and dollars dropped 16% and 20%, respectively.
+Some different numbers out there based on source.  Bottom line: 2016 was an unremarkable year for founders (flat-ish growth), but a boom for VCs (record capital raised).  
+
+[PWC][PWC] reports total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year.  By contrast, US VC deals and dollars dropped 16% and 20%, respectively.
 
 OMERS Ventures estimates that total VC invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.  Other data from [Thompson Reuters][TR], suggest:
 
-> 459 Canadian companies closed 571 rounds of financing totalling $3.7 billion. 
+> 459 Canadian companies closed 571 rounds of financing totaling $3.7 billion. 
 
 Methodology differences likely account for the contrasting figures, as TR includes "Investment by Canadian funds in non-Canadian companies" ($680 million, 92 deals), which (it appears) @OMERSVentures omits.
 
@@ -21,7 +65,7 @@ Methodology differences likely account for the contrasting figures, as TR includ
 ### Total Deals Down
 <img src="2002-2016-VC-in-Canada-Deal-Volume.png">
 
-It is encouraging to see early-stage companies getting more funding year-over-year.  Growth was driven by large cap VC deals, with 14 companies raising rounds $50 million or greater in 2016, boosting the average VC deal size to $6.5 million (encouraging but still well behind USA ($16.7 million), UK ($13.9 million), and Israel ($14.4 million)).  
+It is encouraging to see early-stage companies getting more funding year-over-year.  Growth was driven by large cap VC deals, with 14 companies raising rounds $50 million or greater in 2016, boosting the average VC deal size to $6.5 million (encouraging but still well behind USA ($16.7 million), UK ($13.9 million), and Israel ($14.4 million)).
 
 Despite some gains in total dollars, Canada has long way to go, especially in terms of seed funding (down YoY).  More seed funding is essential to foster innovation and breed successful startups, the lack of seed capital in Canada is alarming, and needs to be corrected.
 
@@ -33,7 +77,7 @@ Clearly seed stage is lacking in Canada, this article aims to explore why pre-se
 
 Canadian venture capital fundraising up 81% YoY, with 26 funds raising $2.2 billion in 2016 (a 13-year high, via [PEHub][PEHub]).
 
-Despite this, according to [Thompson Reuters][TR], 2016 was boom year for total dollars investing in Canadian startups, with total investments reaching a 14-year. However, the number of VC rounds was down 3% YoY, and the number of companies financed fell by 7%.
+Despite this, according to [Thompson Reuters][TR] the number of VC rounds was down 3% YoY, and the number of companies financed fell by 7%.
 
 ## Canadian Fund Performance: WOMP WOMP
 
@@ -41,51 +85,24 @@ Current approach to VC in Canada is not working.  The performance of Canadian VC
 
 <img src="2010-2016-VC-perf-in-Canada.png">
 
-Returns lag far behind US counterparts, public market equivalents, and only recently returning to positive territory. Results-oriented culture might force the VCs to try another strategy, such as many more, smaller deals (spray and pray) vs. current post-Series A rounds (smartest person in the room).
+Returns lag far behind US counterparts, public market equivalents, and only recently returning to positive territory.  Results-oriented culture might force the VCs to try another strategy, such as many more, smaller deals (spray and pray) vs. current post-Series A rounds (smartest person in the room).
 
-## Runway: Put Founders First
+<!-- clipped notes on Seed as Runway -->
 
-Put yourself in the shoes of a talented, ambitious person, lets call her Linda.
-
-Linda is an educated mother of 2.  She has a background in a STEM field, and has domain expertise in banking and finance.  She is gainfully employed at a large bank, but sees inefficiency everywhere that software could eliminate.  She has two colleagues, one a former university roommate, another current coworker, who have an itch to start a startup and would make great co-founders. 
-
-What steps should they take to break off and start their own business?  They should quit their job to focus on building their new business.  Committing time and attention to the new task must be all encompassing in order to succeed!
-
-But, theres a problem: they have `good jobs`, and families, and mortgages, etc.  Like most people under 50, they have limited savings.  They need a runway.
-
-Without a runway, you might have to move back in with your parents!  That happened to @alec_levin who moved back home with his girlfriend, living at both their parents houses while trying to start a startup.  [Alec says](https://medium.com/@alec_levin/losing-a-home-and-the-value-of-a-dollar-661bb0b1164a#.xkbbjzyux): 
-
-> Going back to my parents’ home was one of the hardest things I’ve done. 
-
-He continues to describe the great sacrifices required to start a company, and get some cash flow: 
-
-> At one point I started delivering food for Hurrier on my bike... I froze my ass off for a few months delivering food downtown for about $14 an hour.
-
-What if a small seed round enabled founders like Alec to focus more on their startup and less on immediate cash flow?
-
-Clearly the economy would be better off.
-
-## Seed is the Runway.
-
-Seed capital is the runway that lubricates capitalism.  It is the minimum basic income to allow founders to eat and sleep in their home without moving back in with their parents, or squatting with 5+ roommates in a small house. 
-
-Seed capital reduces the financial risks for startup founders.  $100k divided by 3 founders, means they can dedicate 1 year of their lives to nothing but building a new company and be paid just below median income (in Canada).
-
-This is the minimum basic income that someone earning 6-figures will accept to leave their job, take the personal and professional risks required to start a startup. 
-
-And that is just to start!  The risks are much greater and varied, but the most obvious impediment is that founders are scared of having $0 income.  Make that go away with a small seed investment of $100k (in exchange for 5-10% equity in the company).
-
-This is close to YCombinator, the most successful startup incubator in the world, operates.
+This is close to YCombinator, Tech Stars, 500 Startups.  This model has proven widely successful, and I'll argue is the most effective approach to VC.  Bottom-up (founder-led) results will exceed top-down (VC-led) results.   
+The most successful startup incubators in the world operate on this premise, Canadian VCs should take note.
 
 ## Passive VC: thing or not a thing?
 
-Passive VC, in my terms, is something like YCombinator (YC).  Not exactly like YC, but shares the following characteristics: 
+Passive VC, in my terms, is something like what YCombinator (YC) and other incubators do.  Incubators shares the following characteristics: 
 
-* a group of seed startups 
-* each startup gets an office for 3 months, and enough money get their MVP polished and shipped
+* cluster a cohort of seed-stage startups 
+* each startup gets an office for 3-6 months, and enough money get their MVP polished and shipped
 * the terms and process are simple and transparent: $100k, 7.5% equity, 13 weeks
 
-The rest will take care of itself.  Because equity is involved the incentives of founders and investors are aligned (unlike many popular Toronto-based incubators).  Incubators should not behave like charities but capitalist-based businesses.  Take equity, be a partner with some skin in the game. 
+The rest will take care of itself (it's not easy, but it can be simple).
+
+Because equity is involved the incentives of founders and investors are aligned (unlike many popular Toronto-based incubators).  Incubators should not behave like charities but capitalist-based businesses.  Take equity, be a partner with some skin in the game. 
 
 ## Ego, Performance, Culture
 
@@ -93,9 +110,11 @@ Lets talk about the poisonous impact of ego in investing.  Active investors play
 
 Seed stage investors call themselves 'angels' FFS...
 
-VCs hold onto the cash because it gives them power.  Once they invest, the power shift to the entrepreneur.  
+VCs hold onto the cash because it gives them power.  Once they invest, the power shift to the entrepreneur.  Seed capital empowers entrepreneurs to take necessary risks.  
 
-Of course, in finance there is always institutional reasons that encode for bad behaviour.  In VC, growth is over-valued, longevity/durability is under-valued (source: [Peter Thiel][PT]).  Why?
+In finance there are institutional reasons that encourage bad behaviour.  In VC, growth is over-valued while longevity/durability is under-valued (source: [Peter Thiel][PT]).  
+
+### Why is growth valued over durability?
 
 > most of the value of startups exists *far in the future*. 
 
@@ -112,9 +131,15 @@ Generally, you can apply this across most high-growth startups.
 
 Because it's so far in the future, everyone wants more growth to realize value sooner.  Thiel emphasizes that in Silicon Valley, "we always over-value growth rates and we undervalue durability".
 
-This also solves another pesky issue for VCs: performance bonuses.  The culture of banking and finance is that quarterly and annual reports are required.  3 years is a lifetime in banking, and 5-10 years is a career.  Most people are looking for their next job by then, and want to have received several annual bonuses.  This is why equity is so vital to successful incubators. 
+This also solves another pesky issue for VCs: *performance bonuses*.  The culture of banking and finance is that quarterly and annual reports are required to asset performance.  3 years is a lifetime in banking, and 5-10 years is a career.  Most people are looking for their next job by then, and want to have received several annual bonuses.  This is why equity is so vital to successful incubators. 
 
-Equity ensures the investors are committed to the long term outcome.  They have skin in the game, unlike many more-charitable incubators in Toronto.  Take equity!  Founders: treat yourself to business partners who are actually invested in your success, it will likely work out better for you.  
+### Importance of Equity 
+
+Equity ensures the investors are committed to long term outcomes.  Ownership is vitally important to align incentives.  Skin in the game matters, as Michael [Dearing][Dearing] likes to point out: 
+
+> "... treat yourself to good equity partners." 
+
+In Toronto, many of the incubators act like charities.  They provide a roof, and guidance, but little money and don't take ownership.  Investors, mentors, etc, should take equity!  Get some skin in the game.  Founders should treat themselves to business partners who are tangibly invested in your success, it will likely work out better for all parties.  
 
 ## OMERS
 
@@ -124,22 +149,11 @@ From 2011-2015 OMERS Ventures invested in 23 startups, "doubling venture capital
 
 ### OMERS vs Canadian VC 
 
-Omers is not the only party to blame for the sorry state of Canadian seed funding!  Every single VC in Canada should give their head a shake and stop pretending they can pick winners (or produce the data to prove they can!). 
+OMERS is not the only party to blame for the sorry state of Canadian seed funding!  Every single VC in Canada should give their head a shake and stop pretending they can pick winners (or produce the data to prove they can!). 
 
 The numbers are striking: US investors provided more than HALF all venture capital in Canada.  They will skew towards growth rounds because established companies are less likely to die than pre-revenue startups.
 
 Back to the figures.  Estimates from OMERS suggest *American investors provided ~52% of all venture capital invested in Canadian startups in 2016* ($559 million CAD).  Fifty cents on the dollar comes from the US?! Surely this is anomalous?  Nope.  Last year (2015), US investors contributed ~ half of all VC, a total of $482 million into Canadian market (48% of total).
-
-### YC vs. VC
-
-YC is more formulaic than traditional angel / VC. 
-
-YC has "batches" (a cohort of startups that starts/stops their incubator program at the same time.  Loosely, they operate as follows:  
-
-* 50-60 startups per batch 
-* enter the batch with a specific goal/product in mind
-* a batch is incubated for 3 months
-* demo their product the end
 
 ## Demand for Quality Incubators
 
@@ -234,9 +248,9 @@ https://www.marsdd.com/mars-library/accelerators-incubators/
 The harsh truth about startups: Canada’s incubators and accelerators need to get tougher with new businesses, says Dale - Opinion - Ottawa Business Journal
 http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-startups%3A%26nbsp%3BCanada%26rsquo%3Bs-incubators-and-accelerators-need-to-get-tougher-with-new-businesses,-says-Dale/1
 
-[PWC]: (http://betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/)
+[PWC]:http://betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/
 
-[Betakit]: http://betakit.com/jim-orlandos-10-canadian-startup-and-venture-capital-predictions-for-2017/?utm_content=buffere4d0c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer 
+[Betakit]:http://betakit.com/jim-orlandos-10-canadian-startup-and-venture-capital-predictions-for-2017/?utm_content=buffere4d0c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer 
 
 [FP]:business.financialpost.com/entrepreneur/fp-startups/how-omers-ventures-has-become-the-saviour-of-canadian-startups
 
@@ -253,3 +267,5 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [PEHub]:https://www.pehub.com/canada/2017/2/3434113/
 
 [TR]:https://www.pehub.com/wp-content/uploads/2017/02/Canadian-Venture-Capital-Review-2016-2.pdf
+
+[Dearing]:https://www.youtube.com/watch?v=3vCdfa_aeI8
