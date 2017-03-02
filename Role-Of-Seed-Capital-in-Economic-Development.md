@@ -6,13 +6,15 @@ By *Derek Braid*, aka [@Royal_Arse](https://twitter.com/Royal_Arse/status/818476
 
 ### VC in Canada 2016
 
-Total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year (in US, deals and dollars dropped 16% and 20%, respectively via [betakit](betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/)).  Total of $77 billion ($58.6 billion USD) was invested across 4,520 VC deals in US-based companies.
+Some different numbers out there based on source.  [PWC][PWC]reports total VC deals up to 266, from 246 the year before. Total investment of $2.2 billion ($1.7 billion USD) was flat year-over-year.  By contrast, US VC deals and dollars dropped 16% and 20%, respectively.
 
-OMERS Ventures estimates that total venture capital (VC) invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.  Other data from [Thompson Reuters][TR], suggest:
+OMERS Ventures estimates that total VC invested into Canadian startups increased 15% year-over-year in 2016.  Early-stage startups received most of that increase, while investment in late-stage companies contracted.  Other data from [Thompson Reuters][TR], suggest:
 
 > 459 Canadian companies closed 571 rounds of financing totalling $3.7 billion. 
 
 Methodology differences likely account for the contrasting figures, as TR includes "Investment by Canadian funds in non-Canadian companies" ($680 million, 92 deals), which (it appears) @OMERSVentures omits.
+
+## Charts
 
 ### Total Dollars Up
 <img src="2002-2016-VC-in-Canada-Values.png">
@@ -232,6 +234,7 @@ https://www.marsdd.com/mars-library/accelerators-incubators/
 The harsh truth about startups: Canada’s incubators and accelerators need to get tougher with new businesses, says Dale - Opinion - Ottawa Business Journal
 http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-startups%3A%26nbsp%3BCanada%26rsquo%3Bs-incubators-and-accelerators-need-to-get-tougher-with-new-businesses,-says-Dale/1
 
+[PWC]: (http://betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/)
 
 [Betakit]: http://betakit.com/jim-orlandos-10-canadian-startup-and-venture-capital-predictions-for-2017/?utm_content=buffere4d0c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer 
 
