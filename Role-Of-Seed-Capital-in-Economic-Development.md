@@ -139,7 +139,9 @@ Equity ensures the investors are committed to long term outcomes.  Ownership is 
 
 > "... treat yourself to good equity partners." 
 
-In Toronto, many of the incubators act like charities.  They provide a roof, and guidance, but little money and don't take ownership.  Investors, mentors, etc, should take equity!  Get some skin in the game.  Founders should treat themselves to business partners who are tangibly invested in your success, it will likely work out better for all parties.  
+In Toronto, many of the incubators act like charities.  They provide a roof, and guidance, but little money and don't take ownership.  Investors, mentors, etc, should take equity!  Get some skin in the game.  Founders should treat themselves to business partners who are tangibly invested in your success, it will likely work out better for all parties.
+
+Click [here][DearingBlitz] for more from Dearing (via interview with Reid Hoffman).
 
 ## OMERS
 
@@ -230,6 +232,8 @@ Others have shown that bottom-up approach to economic development can lead to re
 
 > The evolution of the world’s largest clusters has occurred over a long period of time. These were not planned and went unnoticed until they reached a level of activity that warranted attention. 
 
+Omitted here are the volumes of work on Silicon Valley and re-creating the magic there.  This is difficult for several reasons.
+
 
 ### Charts
 
@@ -238,6 +242,8 @@ Others have shown that bottom-up approach to economic development can lead to re
 <img src="2016-global-avg-deal-size.png">
 
 ### Other Sources & Inspirations: 
+
+Economic Clusters http://icic.org/research/economic-development/
 
 Related Tweetstorm https://twitter.com/Royal_Arse/status/818476729022955520
 
@@ -298,3 +304,5 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [Daniels]:http://www.huffingtonpost.ca/marcus-daniels/pre-seed-funding-venture-capital_b_8451236.html
 
 [OSU]:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1496226
+
+[DearingBlitz]:https://github.com/DeBraid/investing-notes/blob/master/blitzscaling-dearing-reid-hoffman.md
