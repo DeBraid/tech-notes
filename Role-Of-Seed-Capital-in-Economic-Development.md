@@ -155,7 +155,7 @@ The numbers are striking: US investors provided more than HALF all venture capit
 
 Back to the figures.  Estimates from OMERS suggest *American investors provided ~52% of all venture capital invested in Canadian startups in 2016* ($559 million CAD).  Fifty cents on the dollar comes from the US?! Surely this is anomalous?  Nope.  Last year (2015), US investors contributed ~ half of all VC, a total of $482 million into Canadian market (48% of total).
 
-## Demand for Quality Incubators
+## Demand for Quality Incubators in Toronto
 
 Ryerson DMZ is so successful it is busy to the point of being crowded, via [Ottawa Business Journal][OBJ]: 
 
@@ -163,9 +163,9 @@ Ryerson DMZ is so successful it is busy to the point of being crowded, via [Otta
 
 List of Incubators in Canada (from 2014, via Mars): https://www.marsdd.com/mars-library/accelerators-incubators/
 
-##  YC Clones?
+##  Incubators in Canada?
 
-One of the key benefits to YC is standardized term sheets and simple process.  There is a Montreal-based firm attempting to bring some of the YC magic to Canada.
+One of the key benefits to incubators is standardized term sheets and simple process.  *FounderFuel*, a Montreal-based firm attempting to bring some of the incubator magic to Canada.
 
 ### FounderFuel
 
@@ -197,15 +197,38 @@ Conversely, building a startup ecosystem from scratch is a 20-year investment, v
 
 ## Mid market VC is a trap! 
 
-Peter Thiel in his lecture to Stanford student provides this inThere are businesses that are perfectly competitive and there are businesses that are monopolies. There is shockingly little that is in between. startupclass.samaltman.com/courses/lec05/
+Peter [Thiel][SSLecture] in his lecture to Stanford students provides this advice. 
 
-Over a year since @marcusdaniels wrote: Canada needs more pre-seed & seed in VC. http://www.huffingtonpost.ca/marcus-daniels/pre-seed-funding-venture-capital_b_8451236.html How has landscape changed since?
+> businesses that are perfectly competitive and there are businesses that are monopolies. There is shockingly little that is in between.
+
+Hence trying to forecast market-share growth is a perilous exercise!  Sadly, it is the preferred method for Canadian VCs (based on the charts above showing preference for Series A/B/C rounds over seed.) 
+
+### Some Canadian VC are Woke
+
+Over a year since @marcusdaniels [wrote][Daniels] "Canada needs more pre-seed & seed in VC".  How has landscape changed: not much based on 2016 data?
 
 Daniels lists several reasons more seed (and pre-seed) is good. For starters, the benefits of *standardized term sheets* are huge! 
 
 > There is considerable variance in pre-seed term sheets. This is a problem that has been partly resolved in the U.S. via standardized term sheets like "safe," which was developed by the famed Y Combinator accelerator. 
 
-Standardized terms removes confusion for founders. Also helps investors understand their risk/reward better.  Keep the funding simple, focus on the product (cut out the bankers and lawyers!).
+Standardized terms removes confusion for founders. Also helps investors understand their risk/reward better.  
+
+Keep the funding simple, focus on the product (cut out the bankers and lawyers!).  Give founders a runway, watch the economic growth roar.
+
+## Tech as Catalyst for Regional Growth
+
+Research has demonstrated the close relationship between entrepreneurship and regional and local development, via [Malecki of OSU School of Public Policy and Management][OSU].
+
+Malecki shows that innovation and competitiveness of cities are function of talent and scale.
+
+* technical skills and information 
+* urban areas contain synergy of factors that smaller remote places don't
+
+> inter-firm networks both supports existing firms and presents opportunities for starting new businesses... Networks of firms complement and sometimes substitute for a firm's own technological capability.
+
+Others have shown that bottom-up approach to economic development can lead to region- and world-changing results, examples include Taiwan’s Semi-Conductor industry, Hollywood’s movie production, Dutch flowers, and Silicon Valley software & electronics:
+
+> The evolution of the world’s largest clusters has occurred over a long period of time. These were not planned and went unnoticed until they reached a level of activity that warranted attention. 
 
 
 ### Charts
@@ -269,3 +292,9 @@ http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-start
 [TR]:https://www.pehub.com/wp-content/uploads/2017/02/Canadian-Venture-Capital-Review-2016-2.pdf
 
 [Dearing]:https://www.youtube.com/watch?v=3vCdfa_aeI8
+
+[SSLecture]:http://startupclass.samaltman.com/courses/lec05/
+
+[Daniels]:http://www.huffingtonpost.ca/marcus-daniels/pre-seed-funding-venture-capital_b_8451236.html
+
+[OSU]:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1496226
