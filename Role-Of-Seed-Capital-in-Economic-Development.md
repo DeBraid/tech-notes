@@ -280,6 +280,21 @@ https://www.marsdd.com/mars-library/accelerators-incubators/
 The harsh truth about startups: Canada’s incubators and accelerators need to get tougher with new businesses, says Dale - Opinion - Ottawa Business Journal
 http://www.obj.ca/Opinion/2015-12-18/article-4380712/The-harsh-truth-about-startups%3A%26nbsp%3BCanada%26rsquo%3Bs-incubators-and-accelerators-need-to-get-tougher-with-new-businesses,-says-Dale/1
 
+# Notes & Misc
+
+Demand for skilled labour in Canada never been greater. >182k jobs by 2019 (84k new, ~100k retirement/attrition)  
+
+http://www.ictc-ctic.ca/wp-content/uploads/2016/03/ICTC_DigitalTalent2020_ENGLISH_FINAL_March2016.pdf …
+Recruiting is hard. 40% of all tech/ICT jobs in Canada held by immigrants vs ~25% for overall economy.
+
+Huawei Global Connectivity Report 2015.  Global ICT investment: China > US > India > Japan > Germany
+
+Canada narrowly behind tech stalwarts Saudi Arabia and Spain, slightly ahead of Turkey, Australia, Nigeria, Thailand
+
+A 20% increase in ICT investment will grow GDP of a country by 1%.  Canada ranks last among developed nations...
+
+Netherlands, Norway, Canada dying for more venture capital and investment in technology (largest positive demand/supply gaps)
+
 [PWC]:http://betakit.com/pwc-moneytree-report-canada-held-firm-in-2016-amidst-down-vc-activity-around-the-globe/
 
 [Betakit]:http://betakit.com/jim-orlandos-10-canadian-startup-and-venture-capital-predictions-for-2017/?utm_content=buffere4d0c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer 
