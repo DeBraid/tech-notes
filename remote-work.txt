@@ -1,0 +1,19 @@
+
+Why not have remote work? 
+
+Even being all-in, you cannot get to the level of interaction of “serendipitous meetings” that drive thought creation, joint thinking and ultimately a higher level of innovation.  This is more about a direction an organisation wants to take to prioritise innovation.
+
+
+Why remote work should be embraced.
+
+Reminds of a saying, "There are no silver bullets, only lead bullets." Not clear that "serendipitous meetings" (SM) are common.  They seem very rare, especially relative to other business activity.  Most meetings are a drag on productivity and produce no innovation.  Face-to-face interaction is key for critical decision-making / planning sessions, but periodic Board Meetings are good example of the benefits of distance and time.
+
+Product development in tech seems to derive from a single (or dual) visionary as the source of innovation.  This vision & expertise was hard-earned over years of study, not an SM.   Tangentially, most tech is not particularly innovative either!  More developer hours spend building practical solutions like SalesForce, DropBox, Slack, etc, than on pure innovation like D-Wave or Oculus.  Interested to learn of some case studies on SM's if you have some to share.   
+
+Even if Company XYZ makes SM's happen with regularity, they still need to optimize for:
+
+A) near-universal aversion to meetings 
+B) software developers spending most of their time working independently
+C) open offices are distracting and miserable
+
+Time spent solving for A+B+C more likely to deliver RoI than maximizing rare SMs.

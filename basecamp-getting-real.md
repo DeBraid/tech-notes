@@ -4,9 +4,11 @@ Product Development from https://basecamp.com/about/books/Getting%20Real.pdf
 
 > The smarter, faster, easier way to build a successful web application
 
+ # Summary
 
- # Introduction
-We lowered our cost of change by always building less software. We gave people just enough features to solve their own problems their own way – and then we got out of the way
+We lowered our cost of change by always building less software. We gave people just enough features to solve their own problems their own way – and then we got out of the way.  Your app should take sides: the best software has a vision.
+
+Good apps DON'T try to be all things to all people. They have an attitude. They seek out customers who are actually partners. They speak to people who share our vision. You’re either on the bus or off the bus. 
 
 ## Getting Real 
 
@@ -94,3 +96,20 @@ Your vision should be brief. One sentence should be enough to get the idea acros
 
 It will guide those tricky decisions you make while building something complex.  The vision, and erring in favour of users will be the laws our application development.
 
+> Your app should take sides 
+Some people argue software should be agnostic. They say it’s ar- rogant for developers to limit features or ignore feature requests. They say software should always be as flexible as possible. We think that’s bullshit. The best software has a vision. 
+
+# Feature Selection
+
+### Half, Not Half-Assed 
+
+Throw in every decent idea that comes along and you’ll just wind up with a half-assed version of your product. What you really want to do is _build half a product that kicks ass_. 
+
+Take whatever you think your product should be and _cut it in half_. Pare features down until you’re left with only the most essential ones. *Then do it again*.
+
+* Just Doesn’t Matter 
+* Start With No Hidden Costs
+* Can You Handle It? 
+* Human Solutions 
+* Forget Feature Requests 
+* Hold the Mayo
