@@ -14,7 +14,7 @@ Good apps DON'T try to be all things to all people. They have an attitude. They 
 
 > Want to build a successful web app? Then it’s time to Get Real. Getting Real is a smaller, faster, better way to build software.
 
-> Getting Real delivers better results because it forces you to deal with the actual problems you’re trying to solve instead of your ideas about those problems. It forces you to deal with reality.
+Getting Real delivers better results because it forces you to deal with the *actual problems you’re trying to solve* instead of your ideas about those problems. It forces you to deal with reality.
 
 > Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a  drawing should have no unnecessary lines and a machine no unnecessary  parts. This requires not that the writer make all sentences short or avoid  all detail and treat subjects only in outline, but that every word tell. 
  
@@ -113,3 +113,46 @@ Take whatever you think your product should be and _cut it in half_. Pare featur
 * Human Solutions 
 * Forget Feature Requests 
 * Hold the Mayo
+
+> Ask people what they don’t want
+
+Most software research asks whether something is missing or what one would add.  Why not ask people what they don’t want? 
+> “If you could remove one feature, what would it be?” 
+> “What don’t you use?” 
+> “What gets in your way the most?”
+
+### More isn’t the answer. 
+
+Sometimes the biggest favor you can do for customers is to leave something out.
+
+> Innovation comes from saying no to 1000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying *NO* that you can concentrate on the things that are really important. -Steve Jobs
+
+# Process
+
+* Race to Running Software Rinse and Repeat
+* From Idea to Implementation Avoid Preferences
+* “Done!”
+* Test in the Wild
+* Shrink Your Time
+
+# From Idea to Implementation 
+
+> brainstorm -> sketches -> html -> coding
+
+## 1. Brainstorm
+
+What is the product going to do?  Not the nitty gritty, but high-level jobs to be done.
+
+## 2. Paper Sketches
+
+Use PAPER.  Write it down!  Be crude: boxes, circles, lines.
+
+> get concepts out of your head and on to paper.  Focus on converting concepts into an interface
+
+## 3. Brainstorm
+
+Get something real in HTML so everyone can see what it looks like!  Starting to get more concrete.  Dont write any code yet, just sketch out the interface.
+
+## 4. Code
+
+If mock ups look good, and demonstate functionality, get to coding it up.  
