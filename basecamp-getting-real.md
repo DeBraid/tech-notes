@@ -155,4 +155,47 @@ Get something real in HTML so everyone can see what it looks like!  Starting to 
 
 ## 4. Code
 
-If mock ups look good, and demonstate functionality, get to coding it up.  
+If mock ups look good, and demonstate functionality, get to coding it up.
+
+# Avoid Preferences
+
+Make decisions for your users so they don't have to!  Providing options to a user is the easy way out.  Options are a way to avoid making decisions, and they burden your user with busy work.
+
+Preference are evil because they create more software.  More options, more code, more testing, more designing.
+
+Be disciplined about the defaults instead of lazily adding preferences.
+
+# DONE!
+
+Decisions are temporary. Make them and move on.  Done is a magical word.  Build momentum by making decisions quickly and moving on.  Make the quick, simple call and move on.  Execute, build momentum, move on.
+
+Derek Sivers version of ideas are worthless: 
+
+> ideas are worth nothing until executed.  Ideas are a multiplier of execution.
+
+For example: 
+
+Bad idea: -1
+so-so idea: 2
+Brilliant idea: 10
+
+No execution: $1
+Weak execution: $1000
+So-So execution: $10,000
+Good execution: $100,000
+Great execution: $1,000,000
+Brilliant execution: $10,000,000
+
+To make a business, multiple the two.  Obviously the key is execusion. 
+
+# Test in the Wild
+
+
+
+
+
+
+
+
+
+
